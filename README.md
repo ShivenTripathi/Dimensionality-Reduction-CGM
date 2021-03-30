@@ -1,5 +1,9 @@
 # Dimensionality-Reduction-CGM
-Dimensionality Reduction for Studying Diffuse Circumgalactic Medium
+Dimensionality Reduction for Studying Diffuse Circumgalactic Medium.
+
+Implemented dimensionality reduction techniques to (best) preserve classification accuracy on reduce feature space.
+
+Used Deep Autoencoders for dimensionality reduction; and DNN, XGBoost for classification. Results and procedures described in Technical Report.
 
 ## TLDR:
 
@@ -48,7 +52,7 @@ $ git clone https://github.com/ShivenTripathi/Dimensionality-Reduction-CGM.git
 ```
 ### Part 2:
 
-* Run code cels in [SpectrumCalc.ipynb](Part_2/SpectrumCalc.ipynb), to generate spectrum outputs
+* Run code cells in [SpectrumCalc.ipynb](Part_2/SpectrumCalc.ipynb), to generate spectrum outputs
 
 ### Part 3:
 
